@@ -2,20 +2,11 @@
     <img width="200" src="https://github.com/HexaPulsar/HexaPulsar/blob/main/profile_hexapulsar.jpeg">
 </p-->
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-<p align='center'>
+<h1>  Hello! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h1>
+ <!--img  align="right"  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" /-->
+<p align="center">  
 </p>
-
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
-</p>
-
-
-
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=HexaPulsar.HexaPulsar)
-[![Github](https://img.shields.io/github/followers/HexaPulsar?label=Follow&style=social)](https://github.com/HexaPulsar)
-
 <div size='20px'> Hi! My name is Magdalena. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
@@ -28,6 +19,8 @@
 - 🌱 I’m learning about Machine Learning, Scientific Computing and Statistics.
   
 - 👯 I’m looking to collaborate on fun projects!
+
+- 🔒 Most of my work is on private repos.
   
 - ⚡ Fun fact: I'm a SciFi nerd 🤓.
 
@@ -149,5 +142,4 @@
 
 -----
 Credits: [Aditya Deshmukh](https://github.com/HexaPulsar)
-
-Last Edited on: 04/09/2021
+ 
