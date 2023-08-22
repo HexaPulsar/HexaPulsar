@@ -16,22 +16,20 @@
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=HexaPulsar.HexaPulsar)
 [![Github](https://img.shields.io/github/followers/HexaPulsar?label=Follow&style=social)](https://github.com/HexaPulsar)
 
-<div size='20px'> Hi! My name is Aditya. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Hi! My name is Magdalena. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
 <h2> About Me </h2>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="45%" align="right" alt="Github" src="https://64.media.tumblr.com/e1712952f6eb24f418a997a8da6ae831/tumblr_ou1znif6LW1w4t58uo1_540.gif" />
 
-- 🔭 I’m currently working on  Soy Estudiante
+- 🔭 I’m currently pursuing an Bsc. in Electrical Engineering. I hope to continue my studies through an Msc in the future.
   
-- 🌱 I’m currently learning Git, Java y GitHub
+- 🌱 I’m learning about Machine Learning, Scientific Computing and Statistics.
   
-- 👯 I’m looking to collaborate on Proyectos
+- 👯 I’m looking to collaborate on fun projects!
   
-- 💬 Ask me about Sql, Java, C#, JavaScript
-  
-- ⚡ Fun fact: Me gustan los girasoles.
+- ⚡ Fun fact: I'm a SciFi nerd 🤓.
 
 
 <br>
