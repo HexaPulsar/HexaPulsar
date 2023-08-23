@@ -7,16 +7,16 @@
     alt="example" /-->
 <p align="center">  
 </p>
-<div size='20px'> Hi! My name is Magdalena. Thank You for taking the time to view my GitHub Profile 😊align="center"
+<div size='20px'> Hi! My name is Magdalena. Thank You for taking the time to view my GitHub Profile 😊 
 </div>
 
 <h2>  ✨ About Me ✨</h2>
 
 <img width="45%" align="right" alt="Github" src="https://64.media.tumblr.com/e1712952f6eb24f418a997a8da6ae831/tumblr_ou1znif6LW1w4t58uo1_540.gif" />
 
-- 🔭 I’m currently pursuing an Bsc. in Electrical Engineering. I hope to continue my studies through an Msc in the future.
+- 🔭 I’m currently pursuing a Bsc. in Electrical Engineering. I hope to continue my studies through an MSc in the future.
   
-- 🌱 I’m learning about Machine Learning, Scientific Computing and Statistics.
+- 🌱 I’m learning about Machine Learning, Scientific Computing, and Statistics.
   
 - 👯 I’m looking to collaborate on fun projects!
 
