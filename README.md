@@ -10,7 +10,7 @@
 <div size='20px'> Hi! My name is Magdalena. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
-<h2> About Me </h2>
+<h2> ✨ About Me ✨</h2>
 
 <img width="45%" align="right" alt="Github" src="https://64.media.tumblr.com/e1712952f6eb24f418a997a8da6ae831/tumblr_ou1znif6LW1w4t58uo1_540.gif" />
 
