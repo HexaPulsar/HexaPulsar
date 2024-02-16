@@ -14,9 +14,9 @@
 
 <img width="45%" align="right" alt="Github" src="https://64.media.tumblr.com/e1712952f6eb24f418a997a8da6ae831/tumblr_ou1znif6LW1w4t58uo1_540.gif" />
 
-- 🔭 I’m currently pursuing a Bsc. in Electrical Engineering. I hope to continue my studies through an MSc in the future.
+- 🔭  BSc. in Electrical Engineering, currently working on a MSc. in Data Science. 
   
-- 🌱 I’m learning about Machine Learning, Scientific Computing, and Statistics.
+- 🌱 I’m mostly work in Machine Learning and Scientific Computing. Occasionally I like to learn about Robotics!
   
 - 👯 I’m looking to collaborate on fun projects!
 
