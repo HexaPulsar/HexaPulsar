@@ -18,12 +18,9 @@
   
 - 🌱 I’m mostly work in Machine Learning and Scientific Computing. Occasionally I like to learn about Robotics!
   
-- 👯 I’m looking to collaborate on fun projects!
+- 👯 I’m looking to collaborate on cool projects!
 
 - 🔒 Most of my work is on private repos.
-  
-- ⚡ Fun fact: I'm a SciFi nerd 🤓.
-
 
 <br>
 
